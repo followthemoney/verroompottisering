@@ -3,7 +3,7 @@
 Deze repository bevat uitleg, code en data over de 'verroompottisering' van de Nederlandse kust, een project van Follow the Money. Dit project is nog niet af. De aanname van het project is dat Nederlandse vakantieparken in handen komen van een steeds kleinere groep grote aanbieders. Bestaande parken worden opgekocht en de bewoners, die er soms al lange tijd verblijven, moeten dikwijls vertrekken om plaats te maken voor luxe vakantiewoningen. Daarnaast worden ook vakantiehuizen in de natuur gebouwd, wat enorm lucratief is. FTM heeft hier een aantal vehalen over gemaakt:
 
 1. [Wall Street aast op de Nederlandse camping](https://www.ftm.nl/artikelen/wall-street-aast-op-camping?utm_campaign=Dimitri-Tokmetzis&utm_source=article&utm_medium=link&share=LBHLucEJqkwRfZkGtIB81TrjjM35oM9b3l9zO1wdR3O7%2FTDQi6v7a%2F%2FMrkOGNjM%3D)
-2. 
+2. [Slapen in beschermde natuur: een goudmijn voor eigenaren van vakantieparken](https://www.ftm.nl/artikelen/verroompottisering-nederlandse-recreatie-3?utm_campaign=Dimitri-Tokmetzis&utm_source=article&utm_medium=link&share=JA9hv4OncXAaS0iUPDA8FyjukPX%2FM2NiWwNHKgRV%2FSLtBO4TyPBFFWjmAbmD32Q%3Dß)
 
 ## De Data
 
